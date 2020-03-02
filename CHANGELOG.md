@@ -7,6 +7,13 @@ The format is based on
 and this project adheres to
 [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.4.0](https://www.github.com/terraform-google-modules/terraform-google-cloud-storage/compare/v1.3.0...v1.4.0) (2020-03-02)
+
+
+### Features
+
+* add outputs for simple bucket module ([#38](https://www.github.com/terraform-google-modules/terraform-google-cloud-storage/issues/38)) ([f93bf5d](https://www.github.com/terraform-google-modules/terraform-google-cloud-storage/commit/f93bf5d88842018f8421be61af5a0f4afd947487))
+
 ## [1.3.0](https://www.github.com/terraform-google-modules/terraform-google-cloud-storage/compare/v1.2.0...v1.3.0) (2020-02-13)
 
 
